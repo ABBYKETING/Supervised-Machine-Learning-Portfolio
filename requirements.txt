@@ -1,0 +1,15 @@
+# Core data libraries
+pandas==2.2.0
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.0
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# Time Series
+statsmodels==0.14.0
+
+# Hyperparameter tuning
+optuna==3.6.0
