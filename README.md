@@ -44,7 +44,7 @@
 - Time Series: Forecast accuracy + residual analysis
 
 ## Key Learnings
-- Importance of data preprocessing and feature scaling
+- Importance of EDA, data cleaning, feature engeneering and preprocessing 
 - Model selection and comparison
 - Handling time-dependent data properly
 - Interpreting model results beyond metrics
